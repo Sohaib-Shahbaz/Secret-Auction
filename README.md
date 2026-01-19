@@ -1,1 +1,3 @@
 # Secret-Auction
+
+This is a beginner-level Python project that simulates a secret (blind) bidding system where multiple users can place bids without seeing each other’s amounts. The program stores each bidder’s name and bid using a dictionary, repeatedly asks if there are more bidders, and ends once bidding is complete. This project was created as part of learning Python fundamentals and focuses on practising input handling, loops, conditionals, and dictionaries.
